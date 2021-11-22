@@ -12,7 +12,6 @@ public class Test : MonoBehaviour
     void Start()
     {
         sayHello();
-        sayHello();
     }
 
     // Update is called once per frame
